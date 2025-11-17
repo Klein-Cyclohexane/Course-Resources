@@ -3,3 +3,5 @@ Summary of the resources of an EE student’s undergraduate course at ShanghaiTe
 
 ## Fall 2025
 [MATH1112](https://github.com/Klein-Cyclohexane/ShanghaiTech.MATH1112) Linear Algebra
+
+[GEMA1001](https://github.com/Klein-Cyclohexane/ShanghaiTech.GEMA1001) Calculus
