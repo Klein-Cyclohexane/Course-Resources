@@ -10,3 +10,4 @@ Summary of the resources of an EE student’s undergraduate course at ShanghaiTe
 
 ## Spring 2026
 [GEMA1003](https://github.com/Klein-Cyclohexane/ShanghaiTech.GEMA1003) Calculus II
+[EE111](https://github.com/Klein-Cyclohexane/ShanghaiTech.EE111) Electric Circuit
