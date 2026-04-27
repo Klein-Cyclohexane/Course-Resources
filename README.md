@@ -15,5 +15,5 @@ Summary of the resources of an EE student’s undergraduate course at ShanghaiTe
 
 [PHYS1181] General Physics I
 
-[ECON1103] Introduction to Economics：Information Technology
+[ECON1103](https://github.com/Klein-Cyclohexane/ShanghaiTech.ECON1103) Introduction to Economics：Information Technology
 
