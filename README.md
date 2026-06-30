@@ -13,7 +13,10 @@ Summary of the resources of an EE student’s undergraduate course at ShanghaiTe
 
 [EE111](https://github.com/Klein-Cyclohexane/ShanghaiTech.EE111) Electric Circuit
 
+[EE111L](https://github.com/Klein-Cyclohexane/ShanghaiTech.EE111L) Electric Circuit Lab
+
 [PHYS1181] General Physics I
 
 [ECON1103](https://github.com/Klein-Cyclohexane/ShanghaiTech.ECON1103) Introduction to Economics：Information Technology
 
+[GESS1028](https://github.com/Klein-Cyclohexane/ShanghaiTech.GESS1028) Morality and the Rule of Law
